@@ -1,9 +1,22 @@
-from bs4 import BeautifulSoup
 import json
+import requests
+from bs4 import BeautifulSoup
 
 with open('quizData.json') as f:
     quizData = json.load(f)
 
+
+url = 'https://www.4ono.com/nda-english-test/'
+response = requests.get(url)
+soup = BeautifulSoup(response.text, 'html.parser')
+
+questions = soup.find_all('div', class_='entry-content')
+for question in questions:
+    question_text = question.find('h3').text
+    options = question.find_all('li')
+    for option in options:
+        option_text = option.text
+        print(option_text)
 
 
 # set the data to json string
@@ -41,8 +54,8 @@ questionsData = [
 ]
 
 # print(type(quizData))
-print(json.dumps(optionsData, indent=2))
-print(optionsData[3]['id'])
+# print(json.dumps(optionsData, indent=2))
+# print(optionsData[3]['id'])
 # print(json.dumps(quizData, indent=2))
 
 
