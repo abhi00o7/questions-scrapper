@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "text": "Q1.Little\nP: that he had been let down\nQ: stood by all these years\nR: did he realize\nS: by a colleague whom he had\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "RPSQ",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "RSQP",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "QSRP",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "QSPR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Q2.Then\nP: it stuck me\nQ: of course\nR: suitable it was\nS: how eminently\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "SPQR",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "QSRP",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "PSRQ",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "QPSR",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Q3.There was\nP: needed for it’s everyday life\nQ: a time when each family\nR: for itself most of the things it\nS: actually produce\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "QRSP",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "RQPS",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "RSPQ",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "QSRP",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Q4.The grocer\nP: did not listen to the protest of customers\nQ: who was in the habit of weighting less\nR: whom he had cheated\nS: with great audacity\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "PRSQ",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "QSPR",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "QPRS",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "PQSR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Q5.Though he dialed frequently\nP: on telephone\nQ: my brother could not contact me\nR: and had left no information\nS: as I had gone out of office\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "QPRS",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "SQRP",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "QPSR",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "SPQR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Q6.Education is\nP: of the proper sense of responsibility\nQ: the first need\nR: in a citizen\nS: for the development\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "SQPR",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "QSRP",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "QSPR",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "PQRS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Q7.It was\nP: in keeping with my mood\nQ: a soft summer evening\nR: as I walked sedately\nS: in the direction of new house\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "SRPQ",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "QRPS",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "QPRS",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "SQPR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Q8.With her body\nP: dragging her unwilling feet\nQ: weak and infirm\nR: double with age\nS: she persisted in her mission\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "PQRS",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "QPRS",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "RQPS",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "SRPQ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Q9.When he\nP: did not know\nQ: he was nervous and\nR: heard the hue and cry at midnight\nS: what to do\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "RQPS",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "QSPR",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "SQPR",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "PQRS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Q10.A French woman\nP: committed suicide\nQ: where she had put up\nR: who had come to Kolkata\nS: by jumping from the balcony of the hotel\nThe proper sequence should be",
+    "options": [
+      {
+        "id": 1,
+        "label": "A",
+        "text": "PRQS",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "label": "B",
+        "text": "QSRP",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "label": "C",
+        "text": "RPSQ",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "label": "D",
+        "text": "SRQP",
+        "isCorrect": false
+      }
+    ]
+  }
+]
