@@ -26,7 +26,7 @@ def correctOpt(str):
 
 
 QuestionsList = []
-# def getQuestionsAnswers(selector):
+
 for index, question in enumerate(questionsList):
     optionsList = options[index].find('li')
     optionsData = [
