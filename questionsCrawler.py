@@ -1,9 +1,5 @@
-import json
-from requests_html import HTMLSession
-
-session = HTMLSession()
-
-# nda questions website url
+'''
+# nda questions website url for english questions
 req = session.get('https://www.4ono.com/nda-english-test/')
 
 spottingErrSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(5) > li:nth-child(2)'
@@ -12,18 +8,32 @@ synonymsSelector = 'body > div.box.article_page > div.o_center > article > div >
 fillBlanksSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(8)'
 sentenceImprovementSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(9)'
 sequenceSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(10)'
-
 reqQuestionsOptions = req.html.find(sequenceSelector, first=True)
+'''
 
+import json
+from requests_html import HTMLSession
+
+session = HTMLSession()
+
+# nda questions for general knowledge
+req = session.get('https://www.4ono.com/nda-gat-test/')
+
+# physicsSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(5)'
+# physicsSelector = 'body > div.box.article_page > div.o_center > article > div > ol.o_slide.explain.act > li:nth-child(2)'
+physicsSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(6)'
+reqQuestionsOptions = req.html.find(physicsSelector, first=True)
+
+print(reqQuestionsOptions)
 questionsList = reqQuestionsOptions.find('li > p')
+print(questionsList)
 options = reqQuestionsOptions.find('li > ol')
-
-
+print(options)
+'''
 def correctOpt(str):
     if str in optionsList[4].text:
         return True
     return False
-
 
 QuestionsList = []
 
@@ -61,18 +71,13 @@ for index, question in enumerate(questionsList):
         "options": optionsData
     }
 
-    QuestionsList.append(questionsData)
-
-# print( len(QuestionsList))
-
-# questionsJsonData = json.dumps(QuestionsList)
-# print(questionsJsonData)
+    QuestionsList.append(questionsData) 
 
 # write data to json format
 
 with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(QuestionsList, f, ensure_ascii=False, indent=2)
-
+'''
 '''
 1. Get questions one by one
 2. Set OptionsList to same index as question
