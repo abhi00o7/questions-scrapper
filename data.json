@@ -1,300 +1,300 @@
 [
   {
     "id": 1,
-    "text": "Q1.Little\nP: that he had been let down\nQ: stood by all these years\nR: did he realize\nS: by a colleague whom he had\nThe proper sequence should be",
+    "text": "Q1.An endothermic reaction is a accompanied by",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "RPSQ",
-        "isCorrect": true
+        "text": "Evolution of light and water",
+        "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "RSQP",
-        "isCorrect": false
+        "text": "Evolution or absorption of heat",
+        "isCorrect": true
       },
       {
         "id": 3,
         "label": "C",
-        "text": "QSRP",
+        "text": "Evolution of heat only",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "QSPR",
+        "text": "Absorption of heat only",
         "isCorrect": false
       }
     ]
   },
   {
     "id": 2,
-    "text": "Q2.Then\nP: it stuck me\nQ: of course\nR: suitable it was\nS: how eminently\nThe proper sequence should be",
+    "text": "Q2.Dialysis is used for the purification of",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "SPQR",
+        "text": "Suspension",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "QSRP",
+        "text": "True solution",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "PSRQ",
+        "text": "Homogeneous mixture",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "QPSR",
+        "text": "Colloidal solution",
         "isCorrect": true
       }
     ]
   },
   {
     "id": 3,
-    "text": "Q3.There was\nP: needed for it’s everyday life\nQ: a time when each family\nR: for itself most of the things it\nS: actually produce\nThe proper sequence should be",
+    "text": "Q3.If 2.0 g of the hydrogen reacts with 16.0 g of oxygen to form 18.0 g of water, which of the following laws is applicable",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "QRSP",
-        "isCorrect": false
+        "text": "Law of conservation of mass",
+        "isCorrect": true
       },
       {
         "id": 2,
         "label": "B",
-        "text": "RQPS",
+        "text": "Law of constant composition",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "RSPQ",
+        "text": "Law of multiple proportions",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "QSRP",
-        "isCorrect": true
+        "text": "Law of reciprocal proportion",
+        "isCorrect": false
       }
     ]
   },
   {
     "id": 4,
-    "text": "Q4.The grocer\nP: did not listen to the protest of customers\nQ: who was in the habit of weighting less\nR: whom he had cheated\nS: with great audacity\nThe proper sequence should be",
+    "text": "Q4.When a electron moves from a higher orbit to the lower orbit then",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "PRSQ",
-        "isCorrect": false
+        "text": "Emission of energy takes place",
+        "isCorrect": true
       },
       {
         "id": 2,
         "label": "B",
-        "text": "QSPR",
+        "text": "The size of atom increases",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "QPRS",
-        "isCorrect": true
+        "text": "Absorption of energy takes place",
+        "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "PQSR",
+        "text": "An electron in an atom moves without emission or absorption",
         "isCorrect": false
       }
     ]
   },
   {
     "id": 5,
-    "text": "Q5.Though he dialed frequently\nP: on telephone\nQ: my brother could not contact me\nR: and had left no information\nS: as I had gone out of office\nThe proper sequence should be",
+    "text": "Q5.Which of the following is best reducing agent",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "QPRS",
+        "text": "Na",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "SQRP",
+        "text": "Ca",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "QPSR",
-        "isCorrect": true
+        "text": "Sr",
+        "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "SPQR",
-        "isCorrect": false
+        "text": "Ba",
+        "isCorrect": true
       }
     ]
   },
   {
     "id": 6,
-    "text": "Q6.Education is\nP: of the proper sense of responsibility\nQ: the first need\nR: in a citizen\nS: for the development\nThe proper sequence should be",
+    "text": "Q6.Water act as a",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "SQPR",
+        "text": "Arrhenius acid as well as base",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "QSRP",
+        "text": "Bronsted- Lowry acid and base",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "QSPR",
-        "isCorrect": true
+        "text": "Lewis base",
+        "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "PQRS",
-        "isCorrect": false
+        "text": "All the above",
+        "isCorrect": true
       }
     ]
   },
   {
     "id": 7,
-    "text": "Q7.It was\nP: in keeping with my mood\nQ: a soft summer evening\nR: as I walked sedately\nS: in the direction of new house\nThe proper sequence should be",
+    "text": "Q7.Which of the following metal absorb hydrogen",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "SRPQ",
+        "text": "Zn",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "QRPS",
-        "isCorrect": false
+        "text": "Pd",
+        "isCorrect": true
       },
       {
         "id": 3,
         "label": "C",
-        "text": "QPRS",
-        "isCorrect": true
+        "text": "Al",
+        "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "SQPR",
+        "text": "K",
         "isCorrect": false
       }
     ]
   },
   {
     "id": 8,
-    "text": "Q8.With her body\nP: dragging her unwilling feet\nQ: weak and infirm\nR: double with age\nS: she persisted in her mission\nThe proper sequence should be",
+    "text": "Q8.Which of the following component of cement sets at the slowest rate",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "PQRS",
+        "text": "Dicalcium silicate",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "QPRS",
+        "text": "Tricalcium silicate",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "RQPS",
-        "isCorrect": true
+        "text": "Tricalcium aluminate",
+        "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "SRPQ",
-        "isCorrect": false
+        "text": "Tetracalcium aluminoferrite",
+        "isCorrect": true
       }
     ]
   },
   {
     "id": 9,
-    "text": "Q9.When he\nP: did not know\nQ: he was nervous and\nR: heard the hue and cry at midnight\nS: what to do\nThe proper sequence should be",
+    "text": "Q9.Charcoal is activated by the treating with",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "RQPS",
+        "text": "Steam is retort",
         "isCorrect": true
       },
       {
         "id": 2,
         "label": "B",
-        "text": "QSPR",
+        "text": "Super heated water",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "SQPR",
+        "text": "Hot air",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "PQRS",
+        "text": "None of these",
         "isCorrect": false
       }
     ]
   },
   {
     "id": 10,
-    "text": "Q10.A French woman\nP: committed suicide\nQ: where she had put up\nR: who had come to Kolkata\nS: by jumping from the balcony of the hotel\nThe proper sequence should be",
+    "text": "Q10.Urea on hydrolysis gives",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "PRQS",
+        "text": "Only ammonia",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "QSRP",
+        "text": "Only carbon dioxide",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "RPSQ",
+        "text": "Ammonia and carbon dioxide",
         "isCorrect": true
       },
       {
         "id": 4,
         "label": "D",
-        "text": "SRQP",
+        "text": "None of the above",
         "isCorrect": false
       }
     ]

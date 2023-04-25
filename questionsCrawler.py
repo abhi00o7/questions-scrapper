@@ -19,8 +19,7 @@ session = HTMLSession()
 # nda questions for general knowledge
 req = session.get('https://www.4ono.com/nda-gat-test/')
 
-# physicsSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(5)'
-# physicsSelector = 'body > div.box.article_page > div.o_center > article > div > ol.o_slide.explain.act > li:nth-child(2)'
+# chemistrySelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(6)'
 physicsSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(6)'
 reqQuestionsOptions = req.html.find(physicsSelector, first=True)
 
@@ -29,7 +28,7 @@ questionsList = reqQuestionsOptions.find('li > p')
 print(questionsList)
 options = reqQuestionsOptions.find('li > ol')
 print(options)
-'''
+
 def correctOpt(str):
     if str in optionsList[4].text:
         return True
@@ -77,7 +76,7 @@ for index, question in enumerate(questionsList):
 
 with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(QuestionsList, f, ensure_ascii=False, indent=2)
-'''
+
 '''
 1. Get questions one by one
 2. Set OptionsList to same index as question
