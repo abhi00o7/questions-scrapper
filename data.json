@@ -1,264 +1,264 @@
 [
   {
     "id": 1,
-    "text": "Q1.An endothermic reaction is a accompanied by",
+    "text": "Q1.The ancient Hindu temple `Preah Vihear` is a source of dispute between",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Evolution of light and water",
+        "text": "Nepal and Bhutan",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "Evolution or absorption of heat",
-        "isCorrect": true
+        "text": "Bhutan and Bangladesh",
+        "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Evolution of heat only",
+        "text": "Thailand and Singapore",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "Absorption of heat only",
-        "isCorrect": false
+        "text": "Neither ‘a’ nor ‘b’",
+        "isCorrect": true
       }
     ]
   },
   {
     "id": 2,
-    "text": "Q2.Dialysis is used for the purification of",
+    "text": "Q2.Who among the following has written the book ‘Too old to be bold’?",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Suspension",
-        "isCorrect": false
+        "text": "Kuldeep Mathur",
+        "isCorrect": true
       },
       {
         "id": 2,
         "label": "B",
-        "text": "True solution",
+        "text": "Hrishikesh Panda",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Homogeneous mixture",
+        "text": "Vali Nasr",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "Colloidal solution",
-        "isCorrect": true
+        "text": "None of these",
+        "isCorrect": false
       }
     ]
   },
   {
     "id": 3,
-    "text": "Q3.If 2.0 g of the hydrogen reacts with 16.0 g of oxygen to form 18.0 g of water, which of the following laws is applicable",
+    "text": "Q3.Which among the following is the unit raised to protect the naval assets",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Law of conservation of mass",
-        "isCorrect": true
+        "text": "Sagar Rakshak Bal",
+        "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "Law of constant composition",
+        "text": "Sagar Suraksha Bal",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Law of multiple proportions",
-        "isCorrect": false
+        "text": "Sagar Prahari Bal",
+        "isCorrect": true
       },
       {
         "id": 4,
         "label": "D",
-        "text": "Law of reciprocal proportion",
+        "text": "Sagar Nigrani Bal",
         "isCorrect": false
       }
     ]
   },
   {
     "id": 4,
-    "text": "Q4.When a electron moves from a higher orbit to the lower orbit then",
+    "text": "Q4.Cryogenic Engine is used in",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Emission of energy takes place",
-        "isCorrect": true
+        "text": "Boeing aircraft",
+        "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "The size of atom increases",
+        "text": "High speed rail engines",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Absorption of energy takes place",
+        "text": "Space shuttle",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "An electron in an atom moves without emission or absorption",
-        "isCorrect": false
+        "text": "Nuclear testing",
+        "isCorrect": true
       }
     ]
   },
   {
     "id": 5,
-    "text": "Q5.Which of the following is best reducing agent",
+    "text": "Q5.The ‘Abyei region’ is a disputed area between which of the following countries",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Na",
+        "text": "Pakistan and Afghanistan",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "Ca",
+        "text": "China and Japan",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Sr",
+        "text": "Switzerland and Germany",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "Ba",
+        "text": "Sudan and South Sudan",
         "isCorrect": true
       }
     ]
   },
   {
     "id": 6,
-    "text": "Q6.Water act as a",
+    "text": "Q6.The ‘Courage and Conviction’ is the autobiography of",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Arrhenius acid as well as base",
+        "text": "Shashi Tharoor",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "Bronsted- Lowry acid and base",
-        "isCorrect": false
+        "text": "VK Singh",
+        "isCorrect": true
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Lewis base",
+        "text": "Narendra Modi",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "All the above",
-        "isCorrect": true
+        "text": "Yashwant Sinah",
+        "isCorrect": false
       }
     ]
   },
   {
     "id": 7,
-    "text": "Q7.Which of the following metal absorb hydrogen",
+    "text": "Q7.Lionel Messie, who has been chosen for Golden Boot Trophy for the third time is from which country",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Zn",
+        "text": "Germany",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "Pd",
-        "isCorrect": true
+        "text": "France",
+        "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Al",
+        "text": "Italy",
         "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "K",
-        "isCorrect": false
+        "text": "Argentina",
+        "isCorrect": true
       }
     ]
   },
   {
     "id": 8,
-    "text": "Q8.Which of the following component of cement sets at the slowest rate",
+    "text": "Q8.Which of the following countries has committed financial and technical assistance to India for the Green Energy Corridor",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Dicalcium silicate",
+        "text": "Norway",
         "isCorrect": false
       },
       {
         "id": 2,
         "label": "B",
-        "text": "Tricalcium silicate",
+        "text": "Australia",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Tricalcium aluminate",
-        "isCorrect": false
+        "text": "Germany",
+        "isCorrect": true
       },
       {
         "id": 4,
         "label": "D",
-        "text": "Tetracalcium aluminoferrite",
-        "isCorrect": true
+        "text": "Japan",
+        "isCorrect": false
       }
     ]
   },
   {
     "id": 9,
-    "text": "Q9.Charcoal is activated by the treating with",
+    "text": "Q9.Which of the following island is the cause of dispute between China and Japan and controlled by Tokyo",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Steam is retort",
+        "text": "Senkaku",
         "isCorrect": true
       },
       {
         "id": 2,
         "label": "B",
-        "text": "Super heated water",
+        "text": "South China Sea",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Hot air",
+        "text": "Falkland",
         "isCorrect": false
       },
       {
@@ -271,30 +271,30 @@
   },
   {
     "id": 10,
-    "text": "Q10.Urea on hydrolysis gives",
+    "text": "Q10.Which of the following is the oldest Grand Slam of the world",
     "options": [
       {
         "id": 1,
         "label": "A",
-        "text": "Only ammonia",
-        "isCorrect": false
+        "text": "Wimbledon",
+        "isCorrect": true
       },
       {
         "id": 2,
         "label": "B",
-        "text": "Only carbon dioxide",
+        "text": "French open",
         "isCorrect": false
       },
       {
         "id": 3,
         "label": "C",
-        "text": "Ammonia and carbon dioxide",
-        "isCorrect": true
+        "text": "Australian Open",
+        "isCorrect": false
       },
       {
         "id": 4,
         "label": "D",
-        "text": "None of the above",
+        "text": "US Open",
         "isCorrect": false
       }
     ]

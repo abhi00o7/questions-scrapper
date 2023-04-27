@@ -11,23 +11,33 @@ sequenceSelector = 'body > div.box.article_page > div.o_center > article > div >
 reqQuestionsOptions = req.html.find(sequenceSelector, first=True)
 '''
 
-import json
-from requests_html import HTMLSession
-
-session = HTMLSession()
-
+'''
 # nda questions for general knowledge
 req = session.get('https://www.4ono.com/nda-gat-test/')
 
 # chemistrySelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(6)'
-physicsSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(6)'
-reqQuestionsOptions = req.html.find(physicsSelector, first=True)
+# physicsSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(5)'
+# generalScienceSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(7)'
+# historySelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(8)'
+# geographySelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(9)'
+# politySelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(10)'
+# economicsSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(11)'
 
-print(reqQuestionsOptions)
+'''
+
+
+import json
+from requests_html import HTMLSession
+session = HTMLSession()
+
+print('Fetching data from website...')
+req = session.get('https://www.4ono.com/nda-gat-test/')
+
+generalKnowledgeSelector = 'body > div.box.article_page > div.o_center > article > div > ol:nth-child(12)'
+reqQuestionsOptions = req.html.find(generalKnowledgeSelector, first=True)
+
 questionsList = reqQuestionsOptions.find('li > p')
-print(questionsList)
 options = reqQuestionsOptions.find('li > ol')
-print(options)
 
 def correctOpt(str):
     if str in optionsList[4].text:
@@ -35,7 +45,7 @@ def correctOpt(str):
     return False
 
 QuestionsList = []
-
+print('Processing data...')
 for index, question in enumerate(questionsList):
     optionsList = options[index].find('li')
     optionsData = [
@@ -76,6 +86,8 @@ for index, question in enumerate(questionsList):
 
 with open('data.json', 'w', encoding='utf-8') as f:
     json.dump(QuestionsList, f, ensure_ascii=False, indent=2)
+
+print('Done!\nfind the save file in the same directory')
 
 '''
 1. Get questions one by one
